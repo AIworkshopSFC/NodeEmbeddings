@@ -9,13 +9,17 @@ Here are some basic steps to setup your running environment:
 1. Install Anaconda 3.7 version
 2. Create a running env with necessary libaries
 ```
-conda create --name NEEnv python=3.6 ontospy networkx pandas scipy scikit-learn pickle gensim
+conda create --name NEEnv python=3.6 networkx pandas scipy scikit-learn gensim matplotlib
 ```
-3. Activate your running env
+3. install ontospy
+```
+pip install ontospy
+```
+4. Activate your running env
 ```
 conda activate NEEnv
 ```
-4. Run the Jupyter Notebook
+5. Run the Jupyter Notebook
 ```
 jupyter notebook
 ```
