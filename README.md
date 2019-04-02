@@ -34,7 +34,8 @@ ipython kernel install --user --name=NEEnv
 After this, the system will create a new kernel directory under "/Users/you_account/Library/Jupyter/kernels/NEEnv. You can then open notebook and select NEEnv as the enviornment
 
 
-Code References
+
+Code References:
 
 1.Reference implementation of Ontospy. http://lambdamusic.github.io/Ontospy/
 
