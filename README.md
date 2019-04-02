@@ -41,4 +41,4 @@ Code References:
 
 2.Reference implementation of node2vec. Author: Aditya Grover For more details, refer to the paper: node2vec: Scalable Feature Learning for Networks Aditya Grover and Jure Leskovec Knowledge Discovery and Data Mining (KDD), 2016. https://github.com/aditya-grover/node2vec
 
-3.Reference implementation of link prediction task using fb data: Lucas Hu https://github.com/lucashu153
+3.Reference implementation of link prediction task using fb data: Lucas Hu https://github.com/lucashu1
