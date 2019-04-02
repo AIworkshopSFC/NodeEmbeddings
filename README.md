@@ -34,4 +34,8 @@ ipython kernel install --user --name=NEEnv
 After this, the system will create a new kernel directory under "/Users/you_account/Library/Jupyter/kernels/NEEnv. You can then open notebook and select NEEnv as the enviornment
 
 
+Code References
 
+■ Reference implementation of Ontospy. http://lambdamusic.github.io/Ontospy/
+■ Reference implementation of node2vec. Author: Aditya Grover For more details, refer to the paper: node2vec: Scalable Feature Learning for Networks Aditya Grover and Jure Leskovec Knowledge Discovery and Data Mining (KDD), 2016. https://github.com/aditya-grover/node2vec
+■ Reference implementation of link prediction task using fb data: Lucas Hu https://github.com/lucashu153
