@@ -11,13 +11,13 @@ Here are some basic steps to setup your running environment:
 ```
 conda create --name NEEnv python=3.6 networkx pandas scipy scikit-learn gensim matplotlib
 ```
-3. install ontospy
-```
-pip install ontospy
-```
-4. Activate your running env
+3. Activate your running env
 ```
 conda activate NEEnv
+```
+4. Install ontospy
+```
+pip instlall ontospy
 ```
 5. Run the Jupyter Notebook
 ```
